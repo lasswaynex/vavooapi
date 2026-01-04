@@ -226,12 +226,12 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 26,
-      "channel_name": "[GB]DAZN Combat 2",
-      "channel_type": "stream",
-      "channel_url" : "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8",
-      "channel_referer": "https://localhost",
-      "channel_origin" : "https://localhost",
+      "channel_id": 32,
+      "channel_name": "[GB]TNT Sports 1 (GB)",
+      "channel_type": "embed",
+      "channel_url" : "https://vividmosaica.com/embed2.php?player=desktop&live=do1",
+      "channel_referer": "https://virazo.sx",
+      "channel_origin" : "https://virazo.sx",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -281,11 +281,11 @@
     },
     {
       "channel_id": 32,
-      "channel_name": "[GB]xxxxxxxxxx",
+      "channel_name": "[GB]TNT Sports 1 (Backup)",
       "channel_type": "embed",
-      "channel_url" : "xxxxxxxxxxxxxx",
-      "channel_referer": "https://localhost",
-      "channel_origin" : "https://localhost",
+      "channel_url" : "https://virazo.sx/ch?id=1",
+      "channel_referer": "https://sportzone.su",
+      "channel_origin" : "https://sportzone.su",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
