@@ -2,19 +2,35 @@
   "channels": [
     {
       "channel_id": 1,
-      "channel_name": "Test Kanal 1",
-      "channel_url": "https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8",
+      "channel_name": "Test-INTRO",
+      "channel_url": "https://ia801703.us.archive.org/5/items/beintro/beintro.mp4",
+      "channel_referer": "https://embedsports.top",
+      "channel_origin": "https://embedsports.top",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "TRT SPOR",
+      "channel_url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=web",
       "channel_referer": "https://embedsports.top",
       "channel_origin": "https://embedsports.top",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
       "channel_id": 2,
-      "channel_name": "Test Kanal 2",
-      "channel_url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=web",
+      "channel_name": "TRT Spor Yıldız",
+      "channel_url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0"
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "TRT 1",
+      "channel_url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+      "channel_referer": "https://embedsports.top",
+      "channel_origin": "https://embedsports.top",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
   ]
 }
