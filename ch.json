@@ -227,9 +227,9 @@
     },
     {
       "channel_id": 26,
-      "channel_name": "[GB]Turkmenistan Sport",
+      "channel_name": "[GB]DAZN Combat 2",
       "channel_type": "stream",
-      "channel_url" : "https://alpha.tv.online.tm/hls/ch004.m3u8",
+      "channel_url" : "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8",
       "channel_referer": "https://localhost",
       "channel_origin" : "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -263,7 +263,7 @@
     },
     {
       "channel_id": 30,
-      "channel_name": "[RU]Biz Cinema",
+      "channel_name": "[UZBEK]Biz Cinema",
       "channel_type": "stream",
       "channel_url" : "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/playlist.m3u8",
       "channel_referer": "https://localhost",
@@ -271,7 +271,16 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 26,
+      "channel_name": "[TURKMENISTAN]Turkmenistan Sport",
+      "channel_type": "stream",
+      "channel_url" : "https://alpha.tv.online.tm/hls/ch004.m3u8",
+      "channel_referer": "https://localhost",
+      "channel_origin" : "https://localhost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+    {
+      "channel_id": 32,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -280,7 +289,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 33,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -289,7 +298,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 34,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -298,7 +307,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 35,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -307,7 +316,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 36,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -316,7 +325,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 37,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -325,7 +334,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 38,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -334,7 +343,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 39,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -343,7 +352,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 40,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -352,7 +361,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 41,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -361,7 +370,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 42,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -370,7 +379,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 43,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -379,7 +388,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 44,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -388,7 +397,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 45,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -397,7 +406,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 46,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -406,7 +415,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 47,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -415,7 +424,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 48,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -424,7 +433,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 49,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -433,7 +442,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 50,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -442,7 +451,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 51,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -451,7 +460,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 52,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -460,7 +469,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 53,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -469,7 +478,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 54,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -478,7 +487,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 55,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -487,7 +496,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 56,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -496,7 +505,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 57,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -505,7 +514,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 58,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -514,7 +523,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 59,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -523,7 +532,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 60,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -532,7 +541,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 61,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -541,7 +550,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 62,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -550,7 +559,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 63,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -559,7 +568,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 64,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -568,7 +577,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 65,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -577,7 +586,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 66,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -586,7 +595,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 67,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -595,7 +604,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 68,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -604,7 +613,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 69,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -613,7 +622,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 70,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -622,7 +631,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 71,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -631,7 +640,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 72,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -640,7 +649,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 73,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -649,7 +658,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 74,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -658,7 +667,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 75,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -667,7 +676,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 76,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -676,7 +685,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 77,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -685,7 +694,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 78,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
@@ -694,16 +703,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
-      "channel_name": "[GB]xxxxxxxxxx",
-      "channel_type": "embed",
-      "channel_url" : "xxxxxxxxxxxxxx",
-      "channel_referer": "https://localhost",
-      "channel_origin" : "https://localhost",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    },
-    {
-      "channel_id": 20,
+      "channel_id": 79,
       "channel_name": "[GB]xxxxxxxxxx",
       "channel_type": "embed",
       "channel_url" : "xxxxxxxxxxxxxx",
