@@ -181,7 +181,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 21,
       "channel_name": "[GB]S Sport 1",
       "channel_type": "embed",
       "channel_url": "https://izlemac226.sbs/wp-content/themes/ikisifirbirdokuz/match-center.php?id=5101",
@@ -190,7 +190,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 22,
       "channel_name": "[GB]beIN Sports MENA English 1",
       "channel_type": "embed",
       "channel_url": "https://daddyhd.com/cast/stream-61.php",
@@ -199,7 +199,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 23,
       "channel_name": "[GB]FIFA Plus",
       "channel_type": "stream",
       "channel_url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
@@ -208,7 +208,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 24,
       "channel_name": "[GB]Red Bull TV",
       "channel_type": "stream",
       "channel_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
@@ -217,7 +217,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 25,
       "channel_name": "[GB]DAZN Combat",
       "channel_type": "stream",
       "channel_url": "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8",
@@ -226,7 +226,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 26,
       "channel_name": "[GB]Turkmenistan Sport",
       "channel_type": "stream",
       "channel_url": "https://alpha.tv.online.tm/hls/ch004.m3u8",
@@ -235,7 +235,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 27,
       "channel_name": "[GB]Cine TV 1",
       "channel_type": "stream",
       "channel_url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
@@ -244,7 +244,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 28,
       "channel_name": "[GB]Cine TV 2",
       "channel_type": "stream",
       "channel_url": "https://fl1.moveonjoy.com/HBO_2/playlist.m3u8",
@@ -253,7 +253,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 29,
       "channel_name": "[GB]TNT Sports 1",
       "channel_type": "stream",
       "channel_url": "https://l.snapx.cfd/TNT-Sports-1/index.m3u8?fastoken=d7bf1a2d-4763-46cc-b8a5-c739bd20ddc4n",
@@ -262,7 +262,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 20,
+      "channel_id": 30,
       "channel_name": "[RU]Biz Cinema",
       "channel_type": "stream",
       "channel_url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/playlist.m3u8",
