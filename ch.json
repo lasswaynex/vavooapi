@@ -31,6 +31,14 @@
       "channel_referer": "https://www.tabii.com",
       "channel_origin": "https://www.tabii.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "TRT Belgesel",
+      "channel_url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+      "channel_referer": "https://www.tabii.com",
+      "channel_origin": "https://www.tabii.com",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
   ]
 }
