@@ -491,8 +491,8 @@
       "channel_name": "[Turkey] A SPOR",
       "channel_type": "stream",
       "channel_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8?ce=3&app=45f847c4-04e8-419a-a561-2ebf87084765",
-      "channel_referer": "https://locahost",
-      "channel_origin": "https://locahost",
+      "channel_referer": "https://www.aspor.com.tr/webtv/canli-yayin",
+      "channel_origin": "https://www.aspor.com.tr",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
 	{
