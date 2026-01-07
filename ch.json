@@ -976,12 +976,12 @@
       "channel_id": 105,
       "channel_name": "[GB] TNT Sports 1",
       "channel_type": "stream",
-      "channel_url": "https://l.snapx.cfd/TNT-Sports-1/index.m3u8?fastoken=036832a5-73f9-4909-b331-a249b3d2301cn",
+      "channel_url": "https://l.snapx.cfd/TNT-Sports-1/index.m3u8?fastoken=6e0d0948-db27-483e-be6c-98b8e6e93ffc",
       "channel_referer": "https://new-player.snapx.cfd",
       "channel_origin": "https://new-player.snapx.cfd",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
-	{
+    {
       "channel_id": 100,
       "channel_name": "[GB] Strongman",
       "channel_type": "stream",
@@ -990,7 +990,7 @@
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
-	{
+    {
       "channel_id": 100,
       "channel_name": "[GB] Tottenham TV",
       "channel_type": "stream",
@@ -1073,6 +1073,15 @@
     },
     {
       "channel_id": 100,
+      "channel_name": "[USA] Women Sports",
+      "channel_type": "stream",
+      "channel_url": "https://amg01416-faststudios-womensnetwork-plex-rzxxu.amagi.tv/playlist/amg01416-faststudios-womensnetwork-plex/playlist.m3u8",
+      "channel_referer": "https://localhost",
+      "channel_origin": "https://localhost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+    {
+      "channel_id": 100,
       "channel_name": "[AZ]Azad Azerbaycan TV",
       "channel_type": "stream",
       "channel_url": "https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8",
@@ -1143,20 +1152,11 @@
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
-	{
+    {
       "channel_id": 100,
       "channel_name": "[ESP] beIN SPORTS XTRA ESP",
       "channel_type": "stream",
       "channel_url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-      "channel_referer": "https://localhost",
-      "channel_origin": "https://localhost",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    },
-    {
-      "channel_id": 100,
-      "channel_name": "[USA] Women Sports",
-      "channel_type": "stream",
-      "channel_url": "https://amg01416-faststudios-womensnetwork-plex-rzxxu.amagi.tv/playlist/amg01416-faststudios-womensnetwork-plex/playlist.m3u8",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
