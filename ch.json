@@ -138,8 +138,8 @@
     {
       "channel_id": 16,
       "channel_name": "[Turkey] beIN Sports 1 (15)",
-      "channel_type": "stream",
-      "channel_url": "https://b.9e3d58ddf5b0fa9a6a.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5062/playlist.m3u8?verify=1767824956782~217.131.119.129~f16031f915e705731d3d09bdb222d7b6",
+      "channel_type": "embed",
+      "channel_url": "https://golvar653.sbs/wp-content/themes/ikisifirbirdokuz/match-center.php?id=5062",
       "channel_referer": "https://golvar653.sbs",
       "channel_origin": "https://golvar653.sbs",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
