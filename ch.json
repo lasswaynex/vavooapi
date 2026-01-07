@@ -910,7 +910,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 100,
+      "channel_id": 110,
       "channel_name": "[GB] beIN Sports MENA English 1",
       "channel_type": "embed",
       "channel_url": "https://daddyhd.com/cast/stream-61.php",
@@ -943,15 +943,6 @@
       "channel_url": "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    },
-    {
-      "channel_id": 100,
-      "channel_name": "[GB] TNT Sports 1 (GB)",
-      "channel_type": "embed",
-      "channel_url": "https://vividmosaica.com/embed2.php?player=desktop&live=do1",
-      "channel_referer": "https://virazo.sx",
-      "channel_origin": "https://virazo.sx",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
