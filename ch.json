@@ -911,7 +911,7 @@
     },
     {
       "channel_id": 110,
-      "channel_name": "[GB] beIN Sports MENA English 1",
+      "channel_name": "[GB] beIN Sports MENA English 1 (DADDYSTREAM)",
       "channel_type": "embed",
       "channel_url": "https://daddyhd.com/cast/stream-61.php",
       "channel_referer": "https://daddyhd.com",
@@ -1060,6 +1060,15 @@
       "channel_url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 111,
+      "channel_name": "[USA] beIN Sports MENA English 1",
+      "channel_type": "stream",
+      "channel_url": "https://windnew.kiko2.ru/wind/premium61/mono.css",
+      "channel_referer": "https://epicplayplay.cfd",
+      "channel_origin": "https://epicplayplay.cfd",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
