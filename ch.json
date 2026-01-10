@@ -1714,7 +1714,7 @@
       "channel_id": 99,
       "channel_name": "[GB] GG Sport 1",
       "channel_type": "embed",
-      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-1&countdown=0&is_logged=false&is_premium=false&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Fuk_ssepl%2Findex",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-1&countdown=0&is_logged=true&is_premium=true&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Fuk_ssepl%2Findex",
       "channel_referer": "https://ggsport.live",
       "channel_origin": "https://ggsport.live",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1723,7 +1723,7 @@
       "channel_id": 100,
       "channel_name": "[GB] GG Sport 2",
       "channel_type": "embed",
-      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-2&countdown=0&is_logged=false&is_premium=false&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Flive01%2Findex",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-2&countdown=0&is_logged=true&is_premium=true&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Flive01%2Findex",
       "channel_referer": "https://ggsport.live",
       "channel_origin": "https://ggsport.live",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1732,7 +1732,7 @@
       "channel_id": 100,
       "channel_name": "[GB] GG Sport 3",
       "channel_type": "embed",
-      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-3&countdown=0&is_logged=false&is_premium=false&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Flive01%2Findex",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-3&countdown=0&is_logged=true&is_premium=true&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Flive01%2Findex",
       "channel_referer": "https://ggsport.live",
       "channel_origin": "https://ggsport.live",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
