@@ -902,11 +902,11 @@
     },
     {
       "channel_id": 100,
-      "channel_name": "[GB] S Sport 1",
+      "channel_name": "[GB] beIN Sports 1",
       "channel_type": "embed",
-      "channel_url": "https://izlemac226.sbs/wp-content/themes/ikisifirbirdokuz/match-center.php?id=5101",
-      "channel_referer": "https://izlemac226.sbs",
-      "channel_origin": "https://izlemac226.sbs",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=South%20Africa%20-%20Cameroon&countdown=0&is_logged=false&is_premium=false&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Flive01%2Findex",
+      "channel_referer": "https://ggsport.live",
+      "channel_origin": "https://ggsport.live",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -938,27 +938,9 @@
     },
     {
       "channel_id": 100,
-      "channel_name": "[GB] DAZN Combat",
-      "channel_type": "stream",
-      "channel_url": "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8",
-      "channel_referer": "https://localhost",
-      "channel_origin": "https://localhost",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    },
-    {
-      "channel_id": 100,
-      "channel_name": "[GB] Cine TV 1",
+      "channel_name": "[GB] Cine TV",
       "channel_type": "stream",
       "channel_url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
-      "channel_referer": "https://localhost",
-      "channel_origin": "https://localhost",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    },
-    {
-      "channel_id": 100,
-      "channel_name": "[GB] Cine TV 2",
-      "channel_type": "stream",
-      "channel_url": "https://fl1.moveonjoy.com/HBO_2/playlist.m3u8",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -967,7 +949,34 @@
       "channel_id": 105,
       "channel_name": "[GB] TNT Sports 1",
       "channel_type": "stream",
-      "channel_url": "https://l.snapx.cfd/TNT-Sports-1/index.m3u8?fastoken=6e0d0948-db27-483e-be6c-98b8e6e93ffc",
+      "channel_url": "https://l.snapx.cfd/TNT-Sports-1/index.m3u8?fastoken=239528ce-6398-4f04-bb80-2995bde99e7c",
+      "channel_referer": "https://new-player.snapx.cfd",
+      "channel_origin": "https://new-player.snapx.cfd",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "[GB] TNT Sports 2",
+      "channel_type": "stream",
+      "channel_url": "https://l.snapx.cfd/TNT-Sports-2/index.m3u8?fastoken=239528ce-6398-4f04-bb80-2995bde99e7c",
+      "channel_referer": "https://new-player.snapx.cfd",
+      "channel_origin": "https://new-player.snapx.cfd",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "[GB] TNT Sports 3",
+      "channel_type": "stream",
+      "channel_url": "https://l.snapx.cfd/TNT-Sports-3/index.m3u8?fastoken=239528ce-6398-4f04-bb80-2995bde99e7c",
+      "channel_referer": "https://new-player.snapx.cfd",
+      "channel_origin": "https://new-player.snapx.cfd",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "[GB] TNT Sports 4",
+      "channel_type": "stream",
+      "channel_url": "https://l.snapx.cfd/TNT-Sports-4/index.m3u8?fastoken=239528ce-6398-4f04-bb80-2995bde99e7c",
       "channel_referer": "https://new-player.snapx.cfd",
       "channel_origin": "https://new-player.snapx.cfd",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1062,7 +1071,7 @@
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
-	{
+    {
       "channel_id": 112,
       "channel_name": "[USA] beIN Sports MENA English 1(DADDY)",
       "channel_type": "stream",
