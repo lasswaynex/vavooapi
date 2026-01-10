@@ -949,7 +949,7 @@
       "channel_id": 105,
       "channel_name": "[GB] TNT Sports 1",
       "channel_type": "embed",
-      "channel_url": "https://new-player.snapx.cfd/v3?is_member=true&link=https://l.snapx.cfd/TNT-Sports-1/index.m3u8?fastoken=a4cd6169-b99d-4627-9c79-d6a5a512cad9n",
+      "channel_url": "https://new-player.snapx.cfd/v3?is_member=false&link=https://l.snapx.cfd/HBO/index.m3u8?fastoken=0953ae90-3b28-4695-a610-c0119a4af16fn",
       "channel_referer": "https://joysport.tv",
       "channel_origin": "https://joysport.tv",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
