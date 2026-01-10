@@ -1750,7 +1750,7 @@
       "channel_id": 110,
       "channel_name": "[GB] TSN1",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/tsn1ca",
+      "channel_url": "https://7pal.short.gy/tsn1ca",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1759,7 +1759,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Hub Premier 1",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/HPremier1",
+      "channel_url": "https://7pal.short.gy/HPremier1",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1768,7 +1768,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Hub Premier 2",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/HPremier2",
+      "channel_url": "https://7pal.short.gy/HPremier2",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1777,7 +1777,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Hub Premier 3",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/HPremier3",
+      "channel_url": "https://7pal.short.gy/HPremier3",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1786,7 +1786,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Premier Sports 1",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/prsport1",
+      "channel_url": "https://7pal.short.gy/prsport1",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1795,7 +1795,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Premier Sports 2",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/prsport2",
+      "channel_url": "https://7pal.short.gy/prsport2",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1804,7 +1804,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Sky Sports Action",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/ssportsat",
+      "channel_url": "https://7pal.short.gy/ssportsat",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1813,7 +1813,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Sky Sports F1",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/ssportsf1",
+      "channel_url": "https://7pal.short.gy/ssportsf1",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1822,7 +1822,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Sky Sports Football",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/ssportsfb",
+      "channel_url": "https://7pal.short.gy/ssportsfb",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1831,7 +1831,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Sky Sports Main Event",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/SkSpMainE",
+      "channel_url": "https://7pal.short.gy/SkSpMainE",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1840,7 +1840,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Sky Sports News",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/ssportsnw",
+      "channel_url": "https://7pal.short.gy/ssportsnw",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1849,7 +1849,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Sky Sports Premier League",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/ssportspl",
+      "channel_url": "https://7pal.short.gy/ssportspl",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1858,7 +1858,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Sportsnet 360",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/sptsnet360",
+      "channel_url": "https://7pal.short.gy/sptsnet360",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1867,7 +1867,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Sportsnet ONE",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/sptsnet1",
+      "channel_url": "https://7pal.short.gy/sptsnet1",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1876,7 +1876,7 @@
       "channel_id": 110,
       "channel_name": "[GB] TNT Sports 1",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/tntspts1",
+      "channel_url": "https://7pal.short.gy/tntspts1",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1885,7 +1885,7 @@
       "channel_id": 110,
       "channel_name": "[GB] TNT Sports 2",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/tntspts2",
+      "channel_url": "https://7pal.short.gy/tntspts2",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1894,7 +1894,7 @@
       "channel_id": 110,
       "channel_name": "[GB] TNT Sports 3",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/tntspts3",
+      "channel_url": "https://7pal.short.gy/tntspts3",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1903,7 +1903,7 @@
       "channel_id": 110,
       "channel_name": "[GB] TNT Sports 4",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/tntspts4",
+      "channel_url": "https://7pal.short.gy/tntspts4",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1912,7 +1912,7 @@
       "channel_id": 110,
       "channel_name": "[GB] TSN1",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/tsn1ca",
+      "channel_url": "https://7pal.short.gy/tsn1ca",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1921,7 +1921,7 @@
       "channel_id": 110,
       "channel_name": "[GB] TSN2",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/tsn2ca",
+      "channel_url": "https://7pal.short.gy/tsn2ca",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1930,7 +1930,7 @@
       "channel_id": 110,
       "channel_name": "[GB] TSN3",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/tsn3ca",
+      "channel_url": "https://7pal.short.gy/tsn3ca",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1939,7 +1939,7 @@
       "channel_id": 110,
       "channel_name": "[GB] TSN4",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/tsn4ca",
+      "channel_url": "https://7pal.short.gy/tsn4ca",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1948,7 +1948,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Ziggo Sport FHD",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/zigosfhd",
+      "channel_url": "https://7pal.short.gy/zigosfhd",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1957,7 +1957,7 @@
       "channel_id": 110,
       "channel_name": "[GB] Ziggo Sport UHD",
       "channel_type": "stream",
-      "channel_url": "7pal.short.gy/ZiggoSport",
+      "channel_url": "https://7pal.short.gy/ZiggoSport",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
