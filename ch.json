@@ -7394,8 +7394,8 @@
             "channel_name": "[DADDY] beIN SPORTS 1 - TURKEY",
             "channel_type": "embed",
             "channel_url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free",
-            "channel_referer": "https://daddyhd.com",
-            "channel_origin": "https://daddyhd.com",
+            "channel_referer": "https://cdn-live.tv",
+            "channel_origin": "https://cdn-live.tv",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
@@ -7403,8 +7403,8 @@
             "channel_name": "[DADDY] beIN SPORTS 2 - TURKEY",
             "channel_type": "embed",
             "channel_url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+2&code=tr&user=cdnlivetv&plan=free",
-            "channel_referer": "https://daddyhd.com",
-            "channel_origin": "https://daddyhd.com",
+            "channel_referer": "https://cdn-live.tv",
+            "channel_origin": "https://cdn-live.tv",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
