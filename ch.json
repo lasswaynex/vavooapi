@@ -1057,9 +1057,9 @@
         "channel_id": 5,
         "channel_name": "[TR] A2 TV",
         "channel_type": "stream",
-        "channel_url": "https://www.sabah.com.tr/|https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
-        "channel_referer": "https://localhost",
-        "channel_origin": "https://localhost",
+        "channel_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
+        "channel_referer": "https://www.sabah.com.tr",
+        "channel_origin": "https://www.sabah.com.tr",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -1111,9 +1111,9 @@
         "channel_id": 11,
         "channel_name": "[TR] ATV - TR CDN",
         "channel_type": "stream",
-        "channel_url": "https://www.atv.com.tr/webtv/canli-yayin|https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8|Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 ",
-        "channel_referer": "https://localhost",
-        "channel_origin": "https://localhost",
+        "channel_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+        "channel_referer": "https://www.atv.com.tr/webtv/canli-yayin",
+        "channel_origin": "https://www.atv.com.tr",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -1435,18 +1435,18 @@
         "channel_id": 47,
         "channel_name": "[TR] Show TV",
         "channel_type": "stream",
-        "channel_url": "https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8",
-        "channel_referer": "https://localhost",
-        "channel_origin": "https://localhost",
+        "channel_url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558",
+        "channel_referer": "https://www.showtv.com.tr",
+        "channel_origin": "https://www.showtv.com.tr",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
         "channel_id": 48,
         "channel_name": "[TR] SIFIR TV",
-        "channel_type": "stream",
+        "channel_type": "youtube",
         "channel_url": "https://www.youtube.com/watch?v=JCSOAmBeXnY",
-        "channel_referer": "https://localhost",
-        "channel_origin": "https://localhost",
+        "channel_referer": "https://www.youtube.com",
+        "channel_origin": "https://www.youtube.com",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -1516,9 +1516,9 @@
         "channel_id": 56,
         "channel_name": "[TR] TRT 1",
         "channel_type": "stream",
-        "channel_url": "https://www.tabii.com/|https://trt.daioncdn.net/trt-1/master.m3u8",
-        "channel_referer": "https://localhost",
-        "channel_origin": "https://localhost",
+        "channel_url": "https://trt.daioncdn.net/trt-1/master.m3u8",
+        "channel_referer": "https://www.tabii.com",
+        "channel_origin": "https://www.tabii.com",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
