@@ -2,9 +2,9 @@
   "channels": [
     {
       "channel_id": 1,
-      "channel_name": "Test-INTRO-VI",
+      "channel_name": "Test-INTRO-VIDEO-VI",
       "channel_type": "stream",
-      "channel_url": "https://archive.org/download/httpswww.youtube.comwatchvqdbzy2fku-0/Grand%20Theft%20Auto%20VI%20Trailer%201%20%5BQdBZY2fkU-0%5D%204K.mp4",
+      "channel_url": "https://archive.org/download/grand-theft-auto-vi-trailers/Grand%20Theft%20Auto%20VI%20Trailer%202.mp4",
       "channel_referer": "https://archive.org",
       "channel_origin": "https://archive.org",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
