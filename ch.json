@@ -946,7 +946,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 105,
+      "channel_id": 200,
       "channel_name": "[GB] TNT Sports 1",
       "channel_type": "embed",
       "channel_url": "https://sportsonline.cv/channels/bra/br2.php",
@@ -955,7 +955,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 105,
+      "channel_id": 201,
       "channel_name": "[GB] TNT Sports 2",
       "channel_type": "embed",
       "channel_url": "https://sportzone.su/embed?url=https://virazo.sx/ch?id=8",
@@ -964,7 +964,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 105,
+      "channel_id": 202,
       "channel_name": "[GB] TNT Sports 3",
       "channel_type": "embed",
       "channel_url": "https://sporligtv612.live/derbi.php?id=2",
@@ -973,7 +973,7 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
-      "channel_id": 105,
+      "channel_id": 203,
       "channel_name": "[GB] TNT Sports 4",
       "channel_type": "embed",
       "channel_url": "https://tr.mobiltv.net/yayinim.php?kanal=bein-sports-haber&ulke=TR",
