@@ -1047,10 +1047,10 @@
     {
         "channel_id": 4,
         "channel_name": "[TR] A Haber",
-        "channel_type": "stream",
+        "channel_type": "youtube",
         "channel_url": "https://www.youtube.com/watch?v=nmY9i63t6qo",
-        "channel_referer": "https://localhost",
-        "channel_origin": "https://localhost",
+        "channel_referer": "https://www.youtube.com",
+        "channel_origin": "https://www.youtube.com",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
