@@ -1696,16 +1696,25 @@
         "channel_id": 76,
         "channel_name": "[TR] YANSIMA SiNEMA TV",
         "channel_type": "stream",
-        "channel_url": "http://208.79.153.42/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8",
+        "channel_url": "http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8",
         "channel_referer": "https://localhost",
         "channel_origin": "https://localhost",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
         "channel_id": 77,
-        "channel_name": "[TR] YS SİNEMA HD",
+        "channel_name": "[TR] YANSIMA Müzik TV",
         "channel_type": "stream",
-        "channel_url": "http://208.79.153.42/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8",
+        "channel_url": "https://cdn4.yayin.com.tr/yansimamedyatv/video.m3u8",
+        "channel_referer": "https://localhost",
+        "channel_origin": "https://localhost",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+        "channel_id": 77,
+        "channel_name": "[TR] YANSIMA DANCE TV",
+        "channel_type": "stream",
+        "channel_url": "http://162.212.179.32/akamaissh101/ssh101/ymmusictv/chunks.m3u8",
         "channel_referer": "https://localhost",
         "channel_origin": "https://localhost",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
