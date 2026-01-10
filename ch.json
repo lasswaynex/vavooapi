@@ -2108,11 +2108,11 @@
     },
     {
       "channel_id": 112,
-      "channel_name": "[USA] beIN Sports MENA English 1(DADDY)",
+      "channel_name": "[USA] Persiana Sports 2",
       "channel_type": "stream",
-      "channel_url": "https://windnew.kiko2.ru/wind/premium64/mono.css",
-      "channel_referer": "https://epicplayplay.cfd",
-      "channel_origin": "https://epicplayplay.cfd",
+      "channel_url": "https://pepsi.abntv.live/hls/4spstream.m3u8",
+      "channel_referer": "https://localhost",
+      "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
