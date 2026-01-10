@@ -949,8 +949,8 @@
       "channel_id": 105,
       "channel_name": "[GB] TNT Sports 1",
       "channel_type": "embed",
-      "channel_url": "https://new-player.snapx.cfd/v3?is_member=true&link=https://l.snapx.cfd/TNT-Sports-2/index.m3u8?fastoken=d768505b-5700-4a07-994c-1ed9d02bb911n",
-      "channel_referer": "https://joysport.tv",
+      "channel_url": "https://new-player.snapx.cfd/v3?is_member=true&link=https://l.snapx.cfd/TNT-Sports-1/index.m3u8?fastoken=d768505b-5700-4a07-994c-1ed9d02bb911n",
+      "channel_referer": "https://joysport.tv/live-tv",
       "channel_origin": "https://joysport.tv",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
@@ -1091,11 +1091,11 @@
     },
     {
       "channel_id": 100,
-      "channel_name": "[AZ]Azad Azerbaycan TV",
+      "channel_name": "[AZ] Azad Azerbaycan TV",
       "channel_type": "stream",
       "channel_url": "https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8",
-      "channel_referer": "https://localhost",
-      "channel_origin": "https://localhost",
+      "channel_referer": "https://stream.atv.az",
+      "channel_origin": "https://stream.atv.az",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -1112,8 +1112,8 @@
       "channel_name": "[AZ] CBC TV",
       "channel_type": "stream",
       "channel_url": "https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8",
-      "channel_referer": "https://localhost",
-      "channel_origin": "https://localhost",
+      "channel_referer": "https://stream.cbctv.az",
+      "channel_origin": "https://stream.cbctv.az",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
