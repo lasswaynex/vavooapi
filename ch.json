@@ -950,8 +950,8 @@
       "channel_name": "[GB] TNT Sports 1",
       "channel_type": "embed",
       "channel_url": "https://sportsonline.cv/channels/bra/br2.php",
-      "channel_referer": "https://sportsonline.st",
-      "channel_origin": "https://sportsonline.st",
+      "channel_referer": "https://sportsonline.cv",
+      "channel_origin": "https://sportsonline.cv",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -976,9 +976,9 @@
       "channel_id": 203,
       "channel_name": "[GB] TNT Sports 4",
       "channel_type": "embed",
-      "channel_url": "https://tr.mobiltv.net/yayinim.php?kanal=bein-sports-haber&ulke=TR",
-      "channel_referer": "https://tv.ecanlitvizle.org/bein-sports-haber-hd/",
-      "channel_origin": "https://tv.ecanlitvizle.org",
+      "channel_url": "https://tv.canlitvizle.online/kanallar.php?kanal=bein-sports-canli&ulke=TR",
+      "channel_referer": "https://tv.canlitvizle.online/bein-sports-canli",
+      "channel_origin": "https://tv.canlitvizle.online",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
