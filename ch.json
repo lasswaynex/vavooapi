@@ -1183,9 +1183,9 @@
         "channel_id": 19,
         "channel_name": "[TR] Fashion TV Midnight Secrets",
         "channel_type": "stream",
-        "channel_url": "https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8",
-        "channel_referer": "https://localhost",
-        "channel_origin": "https://localhost",
+        "channel_url": "https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+        "channel_referer": "https://www.fashiontv.com",
+        "channel_origin": "https://www.fashiontv.com",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
