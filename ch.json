@@ -2145,10 +2145,10 @@
     {
       "channel_id": 239,
       "channel_name": "[FR] beIN Sports 1",
-      "channel_type": "stream",
-      "channel_url": "https://topembed.pw/channel/BeINSport1%5BFrance%5D",
-      "channel_referer": "https://topembed.pw",
-      "channel_origin": "https://topembed.pw",
+      "channel_type": "embed",
+      "channel_url": "https://freesrcm3.click/CDN111/1live.php?id=USANETWORK",
+      "channel_referer": "https://freesrcm3.click",
+      "channel_origin": "https://freesrcm3.click",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
 	{
