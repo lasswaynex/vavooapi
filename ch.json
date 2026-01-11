@@ -1730,7 +1730,7 @@
     },
     {
       "channel_id": 99,
-      "channel_name": "[GB] GG Sport 1",
+      "channel_name": "[GB] GG Sport 1 - Premier League",
       "channel_type": "embed",
       "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-1&countdown=0&is_logged=true&is_premium=true&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Fuk_ssepl%2Findex",
       "channel_referer": "https://ggsport.live",
@@ -1739,7 +1739,7 @@
     },
     {
       "channel_id": 100,
-      "channel_name": "[GB] GG Sport 2",
+      "channel_name": "[GB] GG Sport 2 - Premier League",
       "channel_type": "embed",
       "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-2&countdown=0&is_logged=true&is_premium=true&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Flive01%2Findex",
       "channel_referer": "https://ggsport.live",
@@ -1748,9 +1748,99 @@
     },
     {
       "channel_id": 100,
-      "channel_name": "[GB] GG Sport 3",
+      "channel_name": "[GB] GG Sport 3 - Premier League",
       "channel_type": "embed",
-      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-3&countdown=0&is_logged=true&is_premium=true&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Flive01%2Findex",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-3&countdown=0&is_logged=true&is_premium=true&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Fparamount1%2Findex",
+      "channel_referer": "https://ggsport.live",
+      "channel_origin": "https://ggsport.live",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[GB] GG Sport 4 - CBS Sports",
+      "channel_type": "embed",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-4&countdown=0&is_logged=false&is_premium=false&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Fus_cbssportsnetwork%2Findex",
+      "channel_referer": "https://ggsport.live",
+      "channel_origin": "https://ggsport.live",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[GB] GG Sport 5 - Sport TV 1 PORTUGAL",
+      "channel_type": "embed",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-5&countdown=0&is_logged=false&is_premium=false&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.cdnfly.click%2Fpt_sporttv1%2Findex",
+      "channel_referer": "https://ggsport.live",
+      "channel_origin": "https://ggsport.live",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[GB] GG Sport 6 - Sport TV 2 PORTUGAL",
+      "channel_type": "embed",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-6&countdown=0&is_logged=false&is_premium=false&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.cdnfly.click%2Fpt_sporttv2%2Findex",
+      "channel_referer": "https://ggsport.live",
+      "channel_origin": "https://ggsport.live",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[GB] GG Sport 7 - Sport TV 3 PORTUGAL",
+      "channel_type": "embed",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-6&countdown=0&is_logged=false&is_premium=false&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.cdnfly.click%2Fpt_sporttv3%2Findex",
+      "channel_referer": "https://ggsport.live",
+      "channel_origin": "https://ggsport.live",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[GB] GG Sport 8 - TNT Sports 1",
+      "channel_type": "embed",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-8&countdown=0&is_logged=false&is_premium=false&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Fuk_bts1%2Findex",
+      "channel_referer": "https://ggsport.live",
+      "channel_origin": "https://ggsport.live",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[GB] GG Sport 9 - TNT Sports 2",
+      "channel_type": "embed",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-9&countdown=0&is_logged=false&is_premium=false&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Fuk_bts2%2Findex",
+      "channel_referer": "https://ggsport.live",
+      "channel_origin": "https://ggsport.live",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[GB] GG Sport 10 - TNT Sports 3",
+      "channel_type": "embed",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-10&countdown=0&is_logged=false&is_premium=false&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Fuk_bts3%2Findex",
+      "channel_referer": "https://ggsport.live",
+      "channel_origin": "https://ggsport.live",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[GB] GG Sport 11 - ESPN",
+      "channel_type": "embed",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=GG-Sport-11&countdown=0&is_logged=false&is_premium=false&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.score806.cc%2Fespn0%2Findex",
+      "channel_referer": "https://ggsport.live",
+      "channel_origin": "https://ggsport.live",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[GB] GG Sport 12 - Premier League",
+      "channel_type": "embed",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=Lecce%20-%20Parma&countdown=0&is_logged=false&is_premium=false&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.cdnfly.click%2Fpt_sporttv3%2Findex",
+      "channel_referer": "https://ggsport.live",
+      "channel_origin": "https://ggsport.live",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[GB] GG Sport 13 - Premier League",
+      "channel_type": "embed",
+      "channel_url": "https://play1.gomoon.live/stream/player?is_p2p=true&title=Lecce%20-%20Parma&countdown=0&is_logged=false&is_premium=false&player=JWPlayer&ext=m3u8&dialog=0&is_replay=false&link=https%3A%2F%2Fliveua.cdnfly.click%2Fpt_sporttv3%2Findex",
       "channel_referer": "https://ggsport.live",
       "channel_origin": "https://ggsport.live",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -2072,7 +2162,7 @@
     },
     {
       "channel_id": 100,
-      "channel_name": "[UAE] Dubai Racing 1",
+      "channel_name": "[AR] Dubai Racing 1",
       "channel_type": "stream",
       "channel_url": "https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b2500000.m3u8",
       "channel_referer": "https://locahost",
@@ -2081,7 +2171,7 @@
     },
     {
       "channel_id": 100,
-      "channel_name": "[UAE] Dubai Racing 2",
+      "channel_name": "[AR] Dubai Racing 2",
       "channel_type": "stream",
       "channel_url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8",
       "channel_referer": "https://locahost",
@@ -2090,7 +2180,7 @@
     },
     {
       "channel_id": 100,
-      "channel_name": "[UAE] Dubai Racing 3",
+      "channel_name": "[AR] Dubai Racing 3",
       "channel_type": "stream",
       "channel_url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8",
       "channel_referer": "https://localhost",
@@ -2099,11 +2189,56 @@
     },
     {
       "channel_id": 100,
-      "channel_name": "[UAE] beIN SPORTS 1",
+      "channel_name": "[AR] beIN SPORTS 1",
       "channel_type": "stream",
       "channel_url": "http://62.201.210.86:6969/bein1/index.m3u8",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[AR] beIN 1",
+      "channel_type": "stream",
+      "channel_url": "https://cdxcs.yallashoot.cv/hls/ch1/master.m3u8",
+      "channel_referer": "https://kk.kora-live-live.com",
+      "channel_origin": "https://kk.kora-live-live.com",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[AR] beIN 2",
+      "channel_type": "stream",
+      "channel_url": "https://cdxcs.yallashoot.cv/hls/ch2/master.m3u8",
+      "channel_referer": "https://kk.kora-live-live.com",
+      "channel_origin": "https://kk.kora-live-live.com",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[AR] beIN 3",
+      "channel_type": "stream",
+      "channel_url": "https://cdxcs.yallashoot.cv/hls/ch3/master.m3u8",
+      "channel_referer": "https://kk.kora-live-live.com",
+      "channel_origin": "https://kk.kora-live-live.com",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[AR] beIN 4",
+      "channel_type": "stream",
+      "channel_url": "https://cdxcs.yallashoot.cv/hls/ch4/master.m3u8",
+      "channel_referer": "https://kk.kora-live-live.com",
+      "channel_origin": "https://kk.kora-live-live.com",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[AR] Starzplay Sports 1",
+      "channel_type": "stream",
+      "channel_url": "https://cdxcs.yallashoot.cv/hls/ch10/master.m3u8",
+      "channel_referer": "https://kk.kora-live-live.com",
+      "channel_origin": "https://kk.kora-live-live.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -2248,6 +2383,276 @@
       "channel_url": "https://mfvideo246.top/hls/ms5.m3u8?md5=23jyHuho5lu7J9mP9sU83A&expires=1768140457",
       "channel_referer": "https://myfootball.pw",
       "channel_origin": "https://myfootball.pw",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 1",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 2",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 3",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 4",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 5",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 6",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 7",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 8",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 9",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 10",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 11",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 12",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 13",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 14",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 15",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 16",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 17",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 18",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 19",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 20",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 21",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 22",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 23",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 24",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 25",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 26",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 27",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 28",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 29",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 100,
+      "channel_name": "[RU] TUT Sport 30",
+      "channel_type": "stream",
+      "channel_url": "https://00.afu.su/530.m3u8",
+      "channel_referer": "https://p.afu.su",
+      "channel_origin": "https://p.afu.su",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
