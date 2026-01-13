@@ -2164,9 +2164,9 @@
       "channel_id": 239,
       "channel_name": "[LIVESPORTS] beIN Sports 111 UA MPD",
       "channel_type": "drmmpd",
-      "channel_url": "https://lcdn-4.kumo.social/media/es/mainz/dcb-fs-live-dazn-cdn.dazn.com/3nydhm15r3x81rxfyxlhqarnp/web/stream.mpd",
-      "channel_referer": "cfb5e2b73bef4f3c878f25ab86a7451f",
-      "channel_origin": "0d6712bf2a84edcc93d001a9613f6fec",
+      "channel_url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd",
+      "channel_referer": "3acea01244785a6363fc04b25d696392",
+      "channel_origin": "f0b8f84dbd93407af6ab0b41fc774249",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
 	{
