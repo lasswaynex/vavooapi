@@ -2063,9 +2063,18 @@
     },
     {
       "channel_id": 230,
-      "channel_name": "[GB] FIFA Plus",
+      "channel_name": "[GB] FIFA +",
       "channel_type": "stream",
       "channel_url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+      "channel_referer": "https://localhost",
+      "channel_origin": "https://localhost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 230,
+      "channel_name": "[GB] FIFA + 2",
+      "channel_type": "stream",
+      "channel_url": "https://dtjdiffefl00u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z1wjerfevs3hx/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -2155,7 +2164,52 @@
       "channel_id": 239,
       "channel_name": "[LIVESPORTS] beIN Sports 111 UA MPD",
       "channel_type": "drmmpd",
-      "channel_url": "https://lcdn-3.kumo.social/media/es/stuttgart/dca-fs-live-dazn-cdn.dazn.com/nvjwtwxgwpxf19w6o0a4e3rlm/web/stream.mpd?channel=3745&outlet=dazn-spain&plang=en",
+      "channel_url": "https://lcdn-3.kumo.social/media/es/stuttgart/dca-fs-live-dazn-cdn.dazn.com/nvjwtwxgwpxf19w6o0a4e3rlm/web/stream.mpd",
+      "channel_referer": "cfb5e2b73bef4f3c878f25ab86a7451f",
+      "channel_origin": "0d6712bf2a84edcc93d001a9613f6fec",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] Dot Esports",
+      "channel_type": "stream",
+      "channel_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dot-esports/master.m3u8",
+      "channel_referer": "https://locahost",
+      "channel_origin": "https://locahost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] DAZN Ringside",
+      "channel_type": "stream",
+      "channel_url": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
+      "channel_referer": "https://locahost",
+      "channel_origin": "https://locahost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "xxxxxxxxxxxx",
+      "channel_referer": "cfb5e2b73bef4f3c878f25ab86a7451f",
+      "channel_origin": "0d6712bf2a84edcc93d001a9613f6fec",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "xxxxxxxxxxxxxxxxxxxxx",
+      "channel_referer": "cfb5e2b73bef4f3c878f25ab86a7451f",
+      "channel_origin": "0d6712bf2a84edcc93d001a9613f6fec",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "xxxxxxxxxxxxxxxxxxxxxxxx",
       "channel_referer": "cfb5e2b73bef4f3c878f25ab86a7451f",
       "channel_origin": "0d6712bf2a84edcc93d001a9613f6fec",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -2444,6 +2498,141 @@
       "channel_name": "[LIVESPORTS] ONE SPORTS+",
       "channel_type": "drmmpd",
       "channel_url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] CBS Sports Golazo Network",
+      "channel_type": "drmmpd",
+      "channel_url": "https://otte.live.fly.ww.aiv-cdn.net/live/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+      "channel_referer": "d9623774ac5c8c351aafe97c5fe70267",
+      "channel_origin": "5164e6d05164a2d65fa8fcc962aa4861",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "ddddddddddddddd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "ddddddddddddddd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "ddddddddddddddd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "ddddddddddddddd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "ddddddddddddddd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "ddddddddddddddd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "ddddddddddddddd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "ddddddddddddddd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "ddddddddddddddd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "ddddddddddddddd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "ddddddddddddddd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "ddddddddddddddd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "ddddddddddddddd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_type": "drmmpd",
+      "channel_url": "ddddddddddddddd",
       "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
       "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
