@@ -2155,9 +2155,9 @@
       "channel_id": 239,
       "channel_name": "[LIVESPORTS] beIN Sports 111 UA MPD",
       "channel_type": "drmmpd",
-      "channel_url": "https://otte.live.fly.ww.aiv-cdn.net/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-      "channel_referer": "335dad778109954503dcbb21dc92015f",
-      "channel_origin": "24bfd75d436cbf73168a2a2dccd40281",
+      "channel_url": "https://lcdn-3.kumo.social/media/es/stuttgart/dca-fs-live-dazn-cdn.dazn.com/nvjwtwxgwpxf19w6o0a4e3rlm/web/stream.mpd?channel=3745&outlet=dazn-spain&plang=en",
+      "channel_referer": "cfb5e2b73bef4f3c878f25ab86a7451f",
+      "channel_origin": "0d6712bf2a84edcc93d001a9613f6fec",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
 	{
@@ -2216,38 +2216,263 @@
     },
 	{
       "channel_id": 239,
-      "channel_name": "[LIVESPORTS] beIN",
+      "channel_name": "[LIVESPORTS] TNT Sports 1",
       "channel_type": "drmmpd",
-      "channel_url": "aaaaaaaaaaaaaa",
+      "channel_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+      "channel_referer": "d0f2e5c39e70c18f29bf77768a1ad89a",
+      "channel_origin": "d6853c51fcf37a18905f0609972395d7",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] TNT Sports 2",
+      "channel_type": "drmmpd",
+      "channel_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+      "channel_referer": "9f51f3dc6313ac8bc668e2d9d1c04dfa",
+      "channel_origin": "74bc63e5a193454a91ca494975db33f9",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] TNT Sports 3",
+      "channel_type": "drmmpd",
+      "channel_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+      "channel_referer": "a93c1cbfdccd23233bac13540c693e7f",
+      "channel_origin": "2f6ab2e6693eb847eff3c9da8f9d01fc",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] TNT Sports 4",
+      "channel_type": "drmmpd",
+      "channel_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+      "channel_referer": "192b1115da041585c77200128549efa1",
+      "channel_origin": "634e10efe4abbb14be400a3ccbac0258",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] Fox Sports 1",
+      "channel_type": "drmmpd",
+      "channel_url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+      "channel_referer": "2fbdaa3bea0d0323ae011b318d1db716",
+      "channel_origin": "8726ef7eaf5b9dce15fb6aa9f80bd53f",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] Fox Sports 2",
+      "channel_type": "drmmpd",
+      "channel_url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+      "channel_referer": "8836fb04d62dc64c9f8a39ef8640d5eb",
+      "channel_origin": "d4f05ce56c5231b7cdf53455bea58621",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] Fox Sports 3",
+      "channel_type": "drmmpd",
+      "channel_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
+      "channel_referer": "11c8c1c2ef0385cf1e64d44bb9c3a395",
+      "channel_origin": "5769730ffbdc4b2fd8945929d9ace063",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] Fox Sports Premium",
+      "channel_type": "drmmpd",
+      "channel_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+      "channel_referer": "9f327d24c66fbd84e15ab5c9ead7c7a4",
+      "channel_origin": "83837185529c0c4048f81386c2d36426",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] USA NETWORK",
+      "channel_type": "drmmpd",
+      "channel_url": "https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd?c3.ri=11702733067348058271",
+      "channel_referer": "7f1648ec1c8836baa028e319d92e0841",
+      "channel_origin": "93ba967ec39964d9a6359044ec5c3500",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] FUBO SPORTS 1",
+      "channel_type": "drmmpd",
+      "channel_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+      "channel_referer": "dc69b6159a0f9f0a4e03b3ff91cbacd5",
+      "channel_origin": "d0dcbcd7723bc40df0bf34c9c092d51f",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] FUBO SPORTS 2",
+      "channel_type": "drmmpd",
+      "channel_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
+      "channel_referer": "3dcfbec0e7146928baa55210bf2cb62f",
+      "channel_origin": "bc85f74f815d9be5ae1dd6defaa05135",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] NBC SPORTS ( USA ONLY )",
+      "channel_type": "drmmpd",
+      "channel_url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd",
+      "channel_referer": "0020d88a6713159839743f655c5da7de",
+      "channel_origin": "ba9f34226301f69a4f0f13f65a1f92ec",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] PEACOOCK SPORTS ( USA ONLY )",
+      "channel_type": "drmmpd",
+      "channel_url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd",
+      "channel_referer": "002046c9a49b9ab1cdb6616bec5d26c3",
+      "channel_origin": "d2f92f6b7edc9a1a05d393ba0c20ef9e",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] beIN Sports 1 ( USA ONLY )",
+      "channel_type": "drmmpd",
+      "channel_url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd",
+      "channel_referer": "3ae6a430c1b8420ea280e317143d8d3a",
+      "channel_origin": "142473ee925db0db0083c74a178c8298",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] beIN Sports 2 ( USA ONLY )",
+      "channel_type": "drmmpd",
+      "channel_url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd",
+      "channel_referer": "3d756d566ca94e6499518ffb1474d5d0",
+      "channel_origin": "dbe4ad6803e74739b8f954d23cc58e7b",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] beIN Sports 3 ( USA ONLY )",
+      "channel_type": "drmmpd",
+      "channel_url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd",
+      "channel_referer": "344d320ca45641a88cf002db351ed9a4",
+      "channel_origin": "246cc6ee7ab235cb824ed3b904b7040b",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] BEIN SPORTS 1 AU",
+      "channel_type": "drmmpd",
+      "channel_url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
       "channel_referer": "335dad778109954503dcbb21dc92015f",
       "channel_origin": "24bfd75d436cbf73168a2a2dccd40281",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
 	{
       "channel_id": 239,
-      "channel_name": "[LIVESPORTS] beIN",
+      "channel_name": "[LIVESPORTS] BEIN SPORTS 2 AU",
       "channel_type": "drmmpd",
-      "channel_url": "aaaaaaaaaaaaaa",
-      "channel_referer": "335dad778109954503dcbb21dc92015f",
-      "channel_origin": "24bfd75d436cbf73168a2a2dccd40281",
+      "channel_url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+      "channel_referer": "0b42be2664d7e811d04f3e504e0924c5",
+      "channel_origin": "ae24090123b8c72ac5404dc152847cb8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
 	{
       "channel_id": 239,
-      "channel_name": "[LIVESPORTS] beIN",
+      "channel_name": "[LIVESPORTS] BEIN SPORTS 3 AU",
       "channel_type": "drmmpd",
-      "channel_url": "aaaaaaaaaaaaaa",
-      "channel_referer": "335dad778109954503dcbb21dc92015f",
-      "channel_origin": "24bfd75d436cbf73168a2a2dccd40281",
+      "channel_url": "https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+      "channel_referer": "7995c724a13748ed970840a8ab5bb9b3",
+      "channel_origin": "67bdaf1e2175b9ff682fcdf0e2354b1e",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
 	{
       "channel_id": 239,
-      "channel_name": "[LIVESPORTS] beIN",
+      "channel_name": "[LIVESPORTS] Astro Sports Plus ( REGION BLOCKED )",
       "channel_type": "drmmpd",
-      "channel_url": "aaaaaaaaaaaaaa",
-      "channel_referer": "335dad778109954503dcbb21dc92015f",
-      "channel_origin": "24bfd75d436cbf73168a2a2dccd40281",
+      "channel_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd",
+      "channel_referer": "81352bc47ec1177b321ee65ac1be7f10",
+      "channel_origin": "c8b886142005d7e5067c8717777eaac4",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] Nova Sport 1",
+      "channel_type": "drmmpd",
+      "channel_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+      "channel_referer": "11223344556677889900112233445566",
+      "channel_origin": "4b80724d0ef86bcb2c21f7999d67739d",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] Nova Sport 2",
+      "channel_type": "drmmpd",
+      "channel_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+      "channel_referer": "11223344556677889900112233445566",
+      "channel_origin": "4b80724d0ef86bcb2c21f7999d67739d",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] OMAN SPORT",
+      "channel_type": "stream",
+      "channel_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+      "channel_referer": "https://locahost",
+      "channel_origin": "https://locahost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] BLUE SPORT 1 DE",
+      "channel_type": "stream",
+      "channel_url": "https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd",
+      "channel_referer": "https://locahost",
+      "channel_origin": "https://locahost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] BLUE SPORT 1 FR",
+      "channel_type": "stream",
+      "channel_url": "https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd",
+      "channel_referer": "https://locahost",
+      "channel_origin": "https://locahost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] ONE SPORTS+",
+      "channel_type": "drmmpd",
+      "channel_url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd",
+      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
+      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] HBO MN+",
+      "channel_type": "drmmpd",
+      "channel_url": "https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd",
+      "channel_referer": "40f019b86241d23ef075633fd7f1e927",
+      "channel_origin": "058dec845bd340178a388edd104a015e",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] HBO MNX",
+      "channel_type": "drmmpd",
+      "channel_url": "https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd",
+      "channel_referer": "40f019b86241d23ef075633fd7f1e927",
+      "channel_origin": "058dec845bd340178a388edd104a015e",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[LIVESPORTS] AYM Sports",
+      "channel_type": "stream",
+      "channel_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13843",
+      "channel_referer": "https://www.sportika.net",
+      "channel_origin": "https://www.sportika.net",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
 	{
@@ -2345,6 +2570,15 @@
       "channel_name": "[THAI] TVRI RIAU",
       "channel_type": "stream",
       "channel_url": "https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8",
+      "channel_referer": "https://locahost",
+      "channel_origin": "https://locahost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 239,
+      "channel_name": "[THAI] TRANS TV",
+      "channel_type": "stream",
+      "channel_url": "https://video.detik.com/transtv/smil:transtv.smil/index.m3u8",
       "channel_referer": "https://locahost",
       "channel_origin": "https://locahost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -2980,6 +3214,15 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
+      "channel_id": 295,
+      "channel_name": "[BRA] BARÇA TV",
+      "channel_type": "stream",
+      "channel_url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist.m3u8",
+      "channel_referer": "https://localhost",
+      "channel_origin": "https://localhost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
       "channel_id": 295,
       "channel_name": "[BRA] BARÇA TV",
       "channel_type": "stream",
