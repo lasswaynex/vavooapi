@@ -1082,7 +1082,7 @@
     },
     {
       "channel_id": 121,
-      "channel_name": "[TR] akit tv",
+      "channel_name": "[TR] Akit tv",
       "channel_type": "stream",
       "channel_url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
       "channel_referer": "https://localhost",
@@ -1091,7 +1091,7 @@
     },
     {
       "channel_id": 122,
-      "channel_name": "[TR] aksu tv",
+      "channel_name": "[TR] Aksu tv",
       "channel_type": "stream",
       "channel_url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8",
       "channel_referer": "https://localhost",
@@ -1100,7 +1100,7 @@
     },
     {
       "channel_id": 123,
-      "channel_name": "[TR] altaş tv",
+      "channel_name": "[TR] Altaş tv",
       "channel_type": "stream",
       "channel_url": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8",
       "channel_referer": "https://localhost",
@@ -1127,7 +1127,7 @@
     },
     {
       "channel_id": 126,
-      "channel_name": "[TR] benguturk",
+      "channel_name": "[TR] Benguturk",
       "channel_type": "stream",
       "channel_url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8",
       "channel_referer": "https://localhost",
@@ -1183,7 +1183,7 @@
       "channel_id": 132,
       "channel_name": "[TR] DMAX",
       "channel_type": "stream",
-      "channel_url": "https://dogus-live.daioncdn.net/dmax/dmax.m3u8",
+      "channel_url": "https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1235,7 +1235,7 @@
     },
     {
       "channel_id": 138,
-      "channel_name": "[TR] haber 61",
+      "channel_name": "[TR] Haber 61",
       "channel_type": "stream",
       "channel_url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
       "channel_referer": "https://localhost",
@@ -1253,7 +1253,7 @@
     },
     {
       "channel_id": 140,
-      "channel_name": "[TR] halk tv",
+      "channel_name": "[TR] Halk tv",
       "channel_type": "stream",
       "channel_url": "https://halktv.blutv.com/blutv_halktv_live/live.m3u8",
       "channel_referer": "https://localhost",
@@ -1381,9 +1381,18 @@
       "channel_id": 154,
       "channel_name": "[TR] NTV",
       "channel_type": "stream",
-      "channel_url": "https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8",
-      "channel_referer": "https://localhost",
-      "channel_origin": "https://localhost",
+      "channel_url": "https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8",
+      "channel_referer": "https://www.ntv.com.tr",
+      "channel_origin": "https://www.ntv.com.tr",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 154,
+      "channel_name": "[TR] NTV - 2",
+      "channel_type": "stream",
+      "channel_url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee",
+      "channel_referer": "https://www.ntv.com.tr",
+      "channel_origin": "https://www.ntv.com.tr",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -1471,7 +1480,7 @@
       "channel_id": 164,
       "channel_name": "[TR] STAR TV - TR",
       "channel_type": "stream",
-      "channel_url": "https://dogus-live.daioncdn.net/startv/startv.m3u8",
+      "channel_url": "https://dygvideo.dygdigital.com/live/hls/startv4puhu",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1487,7 +1496,7 @@
     },
     {
       "channel_id": 166,
-      "channel_name": "[TR] teve 2",
+      "channel_name": "[TR] Teve 2",
       "channel_type": "stream",
       "channel_url": "https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd",
       "channel_referer": "https://localhost",
@@ -2164,9 +2173,9 @@
       "channel_id": 241,
       "channel_name": "[LIVESPORTS] beIN Sports 111 UA MPD",
       "channel_type": "drmmpd",
-      "channel_url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd",
-      "channel_referer": "PS7YDPH1qaS5p2IbnmxOKg",
-      "channel_origin": "RSbM19SZsLJAEc5a3OGGVg",
+      "channel_url": "https://lcdn-2.kumo.social/media/es/augsburg/dca-fs-live-dazn-cdn.dazn.com/95146hnvdcql1b74fwb1g6bim/web/stream.mpd?channel=3731&outlet=dazn-spain&plang=en",
+      "channel_referer": "cfb5e2b73bef4f3c878f25ab86a7451f",
+      "channel_origin": "0d6712bf2a84edcc93d001a9613f6fec",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -2558,17 +2567,17 @@
     },
     {
       "channel_id": 285,
-      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
-      "channel_type": "drmmpd",
-      "channel_url": "ddddddddddddddd",
-      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
-      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "channel_name": "[LIVESPORTS] Real Madrid TV - ES",
+      "channel_type": "stream",
+      "channel_url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?cp=es",
+      "channel_referer": "https://locahost",
+      "channel_origin": "https://locahost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
       "channel_id": 286,
-      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
-      "channel_type": "drmmpd",
+      "channel_name": "[LIVESPORTS] Manchester United TV",
+      "channel_type": "stream",
       "channel_url": "ddddddddddddddd",
       "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
       "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
@@ -2576,11 +2585,11 @@
     },
     {
       "channel_id": 287,
-      "channel_name": "[LIVESPORTS] aaaaaaaaaa",
+      "channel_name": "[LIVESPORTS] ZIGGO SPORT",
       "channel_type": "drmmpd",
-      "channel_url": "ddddddddddddddd",
-      "channel_referer": "322d06e9326f4753a7ec0908030c13d8",
-      "channel_origin": "1e3e0ca32d421fbfec86feced0efefda",
+      "channel_url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621",
+      "channel_referer": "ef34ae91b4f2415e8439b2ad105e7488",
+      "channel_origin": "243248d8de1ff8c7c587ee2057317523",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
