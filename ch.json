@@ -2164,9 +2164,9 @@
       "channel_id": 241,
       "channel_name": "[LIVESPORTS] beIN Sports 111 UA MPD",
       "channel_type": "drmmpd",
-      "channel_url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd",
-      "channel_referer": "9d8b1b819cfdcff845625b86cc4968f3",
-      "channel_origin": "480b03fe4476bc187c6a9d43ba85b9db",
+      "channel_url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd",
+      "channel_referer": "PS7YDPH1qaS5p2IbnmxOKg",
+      "channel_origin": "RSbM19SZsLJAEc5a3OGGVg",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
