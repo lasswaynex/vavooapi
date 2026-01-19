@@ -94,7 +94,7 @@
       "channel_id": 11,
       "channel_name": "[TR] beIN Sports 1 (10)",
       "channel_type": "stream",
-      "channel_url": "https://wqcom.cfd/bein_sports_1_hd/main.m3u8",
+      "channel_url": "https://dccom.cfd/bein_sports_1_hd/main.m3u8",
       "channel_referer": "https://digitaloceancdn.site",
       "channel_origin": "https://digitaloceancdn.site",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -139,9 +139,9 @@
       "channel_id": 16,
       "channel_name": "[TR] beIN Sports 1 (15)",
       "channel_type": "embed",
-      "channel_url": "https://bosssports300.com/play.html?b=1&_1=bo.eaabc2460051e2446e.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=777",
-      "channel_referer": "https://bosssports300.com",
-      "channel_origin": "https://bosssports300.com",
+      "channel_url": "https://bosssports304.com/play.html?b=1&_1=bo.ba0c519f804e77bbe6.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=777",
+      "channel_referer": "https://bosssports304.com",
+      "channel_origin": "https://bosssports304.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -193,9 +193,9 @@
       "channel_id": 22,
       "channel_name": "[TR] beIN Sports 2 (3)",
       "channel_type": "embed",
-      "channel_url": "https://bosssports300.com/play.html?b=1&_1=bo.eaabc2460051e2446e.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=778",
-      "channel_referer": "https://bosssports300.com",
-      "channel_origin": "https://bosssports300.com",
+      "channel_url": "https://bosssports304.com/play.html?b=1&_1=bo.ba0c519f804e77bbe6.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=778",
+      "channel_referer": "https://bosssports304.com",
+      "channel_origin": "https://bosssports304.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -238,9 +238,9 @@
       "channel_id": 27,
       "channel_name": "[TR] beIN Sports 3 (3)",
       "channel_type": "embed",
-      "channel_url": "https://bosssports300.com/play.html?b=1&_1=bo.eaabc2460051e2446e.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=779",
-      "channel_referer": "https://bosssports300.com",
-      "channel_origin": "https://bosssports300.com",
+      "channel_url": "https://bosssports304.com/play.html?b=1&_1=bo.ba0c519f804e77bbe6.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=779",
+      "channel_referer": "https://bosssports304.com",
+      "channel_origin": "https://bosssports304.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -283,9 +283,9 @@
       "channel_id": 32,
       "channel_name": "[TR] beIN Sports 4 (3)",
       "channel_type": "embed",
-      "channel_url": "https://bosssports300.com/play.html?b=1&_1=bo.eaabc2460051e2446e.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=780",
-      "channel_referer": "https://bosssports300.com",
-      "channel_origin": "https://bosssports300.com",
+      "channel_url": "https://bosssports304.com/play.html?b=1&_1=bo.ba0c519f804e77bbe6.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=780",
+      "channel_referer": "https://bosssports304.com",
+      "channel_origin": "https://bosssports304.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -328,9 +328,9 @@
       "channel_id": 37,
       "channel_name": "[TR] beIN Sports 5 (3)",
       "channel_type": "embed",
-      "channel_url": "https://bosssports300.com/play.html?b=1&_1=bo.eaabc2460051e2446e.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=786",
-      "channel_referer": "https://bosssports300.com",
-      "channel_origin": "https://bosssports300.com",
+      "channel_url": "https://bosssports304.com/play.html?b=1&_1=bo.ba0c519f804e77bbe6.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=786",
+      "channel_referer": "https://bosssports304.com",
+      "channel_origin": "https://bosssports304.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -364,18 +364,18 @@
       "channel_id": 41,
       "channel_name": "[TR] Eurosport 1",
       "channel_type": "embed",
-      "channel_url": "https://bosssports300.com/play.html?b=1&_1=bo.eaabc2460051e2446e.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=631",
-      "channel_referer": "https://bosssports300.com",
-      "channel_origin": "https://bosssports300.com",
+      "channel_url": "https://bosssports304.com/play.html?b=1&_1=bo.ba0c519f804e77bbe6.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=631",
+      "channel_referer": "https://bosssports304.com",
+      "channel_origin": "https://bosssports304.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
       "channel_id": 42,
       "channel_name": "[TR] Eurosport 2",
       "channel_type": "embed",
-      "channel_url": "https://bosssports300.com/play.html?b=1&_1=bo.eaabc2460051e2446e.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=641",
-      "channel_referer": "https://bosssports300.com",
-      "channel_origin": "https://bosssports300.com",
+      "channel_url": "https://bosssports304.com/play.html?b=1&_1=bo.ba0c519f804e77bbe6.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=641",
+      "channel_referer": "https://bosssports304.com",
+      "channel_origin": "https://bosssports304.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -409,9 +409,9 @@
       "channel_id": 46,
       "channel_name": "[TR] S Sports 1 (2)",
       "channel_type": "embed",
-      "channel_url": "https://bosssports300.com/play.html?b=1&_1=bo.eaabc2460051e2446e.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=763",
-      "channel_referer": "https://bosssports300.com",
-      "channel_origin": "https://bosssports300.com",
+      "channel_url": "https://bosssports304.com/play.html?b=1&_1=bo.ba0c519f804e77bbe6.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=763",
+      "channel_referer": "https://bosssports304.com",
+      "channel_origin": "https://bosssports304.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -454,9 +454,9 @@
       "channel_id": 51,
       "channel_name": "[TR] S Sports 2 (2)",
       "channel_type": "embed",
-      "channel_url": "https://bosssports300.com/play.html?b=1&_1=bo.eaabc2460051e2446e.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=764",
-      "channel_referer": "https://bosssports300.com",
-      "channel_origin": "https://bosssports300.com",
+      "channel_url": "https://bosssports304.com/play.html?b=1&_1=bo.ba0c519f804e77bbe6.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=764",
+      "channel_referer": "https://bosssports304.com",
+      "channel_origin": "https://bosssports304.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -508,9 +508,9 @@
       "channel_id": 57,
       "channel_name": "[TR] Tivibuspor 1 (2)",
       "channel_type": "embed",
-      "channel_url": "https://bosssports300.com/play.html?b=1&_1=bo.eaabc2460051e2446e.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=75",
-      "channel_referer": "https://bosssports300.com",
-      "channel_origin": "https://bosssports300.com",
+      "channel_url": "https://bosssports304.com/play.html?b=1&_1=bo.ba0c519f804e77bbe6.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=75",
+      "channel_referer": "https://bosssports304.com",
+      "channel_origin": "https://bosssports304.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -535,9 +535,9 @@
       "channel_id": 60,
       "channel_name": "[TR] Tivibuspor 2 (2)",
       "channel_type": "embed",
-      "channel_url": "https://bosssports300.com/play.html?b=1&_1=bo.eaabc2460051e2446e.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=76",
-      "channel_referer": "https://bosssports300.com",
-      "channel_origin": "https://bosssports300.com",
+      "channel_url": "https://bosssports304.com/play.html?b=1&_1=bo.ba0c519f804e77bbe6.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=76",
+      "channel_referer": "https://bosssports304.com",
+      "channel_origin": "https://bosssports304.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -562,9 +562,9 @@
       "channel_id": 63,
       "channel_name": "[TR] Tivibuspor 3 (2)",
       "channel_type": "embed",
-      "channel_url": "https://bosssports300.com/play.html?b=1&_1=bo.eaabc2460051e2446e.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=77",
-      "channel_referer": "https://bosssports300.com",
-      "channel_origin": "https://bosssports300.com",
+      "channel_url": "https://bosssports304.com/play.html?b=1&_1=bo.ba0c519f804e77bbe6.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=77",
+      "channel_referer": "https://bosssports304.com",
+      "channel_origin": "https://bosssports304.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -580,9 +580,9 @@
       "channel_id": 65,
       "channel_name": "[TR] NBA TV",
       "channel_type": "embed",
-      "channel_url": "https://bosssports300.com/play.html?b=1&_1=bo.eaabc2460051e2446e.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=608",
-      "channel_referer": "https://bosssports300.com",
-      "channel_origin": "https://bosssports300.com",
+      "channel_url": "https://bosssports304.com/play.html?b=1&_1=bo.ba0c519f804e77bbe6.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=608",
+      "channel_referer": "https://bosssports304.com",
+      "channel_origin": "https://bosssports304.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -598,9 +598,9 @@
       "channel_id": 67,
       "channel_name": "[TR] IDMAN TV",
       "channel_type": "embed",
-      "channel_url": "https://bosssports300.com/play.html?b=1&_1=bo.eaabc2460051e2446e.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=1020",
-      "channel_referer": "https://bosssports300.com",
-      "channel_origin": "https://bosssports300.com",
+      "channel_url": "https://bosssports304.com/play.html?b=1&_1=bo.ba0c519f804e77bbe6.workers.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=1020",
+      "channel_referer": "https://bosssports304.com",
+      "channel_origin": "https://bosssports304.com",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -6259,7 +6259,7 @@
       "channel_id": 696,
       "channel_name": "[Matchify] Premier League Main - MATCH DAYS LIVE ONLY",
       "channel_type": "stream",
-      "channel_url": "https://d1n5rywd4x455r.cloudfront.net/svg/n1/javascript.json",
+      "channel_url": "https://gheysmlie.sbs/svg/n1/javascript.json",
       "channel_referer": "https://matchify.zip/1111.php",
       "channel_origin": "https://matchify.zip",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -6268,7 +6268,7 @@
       "channel_id": 697,
       "channel_name": "[Matchify] Sky Sport 3 - MATCH DAYS LIVE ONLY",
       "channel_type": "stream",
-      "channel_url": "https://d1n5rywd4x455r.cloudfront.net/svg/n2/javascript.json",
+      "channel_url": "https://gheysmlie.sbs/svg/n2/javascript.json",
       "channel_referer": "https://matchify.zip/2222.php",
       "channel_origin": "https://matchify.zip",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -6277,7 +6277,7 @@
       "channel_id": 698,
       "channel_name": "[Matchify] Sky Sport 5 - MATCH DAYS LIVE ONLY",
       "channel_type": "stream",
-      "channel_url": "https://d1n5rywd4x455r.cloudfront.net/svg/n3/javascript.json",
+      "channel_url": "https://gheysmlie.sbs/svg/n3/javascript.json",
       "channel_referer": "https://matchify.zip/3333.php",
       "channel_origin": "https://matchify.zip",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -6286,7 +6286,7 @@
       "channel_id": 699,
       "channel_name": "[Matchify] Sky Sport 7 - MATCH DAYS LIVE ONLY",
       "channel_type": "stream",
-      "channel_url": "https://d1n5rywd4x455r.cloudfront.net/svg/n4/javascript.json",
+      "channel_url": "https://gheysmlie.sbs/svg/n4/javascript.json",
       "channel_referer": "https://matchify.zip/4444.php",
       "channel_origin": "https://matchify.zip",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -6295,7 +6295,7 @@
       "channel_id": 700,
       "channel_name": "[Matchify] Sky Sport 9 - MATCH DAYS LIVE ONLY",
       "channel_type": "stream",
-      "channel_url": "https://d1n5rywd4x455r.cloudfront.net/svg/n5/javascript.json",
+      "channel_url": "https://gheysmlie.sbs/svg/n5/javascript.json",
       "channel_referer": "https://matchify.zip/5555.php",
       "channel_origin": "https://matchify.zip",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -6304,7 +6304,7 @@
       "channel_id": 701,
       "channel_name": "[Matchify] LA LIGA - MATCH DAYS LIVE ONLY",
       "channel_type": "stream",
-      "channel_url": "https://d1n5rywd4x455r.cloudfront.net/svg/n6/javascript.json",
+      "channel_url": "https://gheysmlie.sbs/svg/n6/javascript.json",
       "channel_referer": "https://matchify.zip/6666.php",
       "channel_origin": "https://matchify.zip",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -6313,7 +6313,7 @@
       "channel_id": 702,
       "channel_name": "[Matchify] DAZN - MATCH DAYS LIVE ONLY",
       "channel_type": "stream",
-      "channel_url": "https://d1n5rywd4x455r.cloudfront.net/svg/n7/javascript.json",
+      "channel_url": "https://gheysmlie.sbs/svg/n7/javascript.json",
       "channel_referer": "https://matchify.zip/7777.php",
       "channel_origin": "https://matchify.zip",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -6322,7 +6322,7 @@
       "channel_id": 703,
       "channel_name": "[Matchify] ViaPlay - MATCH DAYS LIVE ONLY",
       "channel_type": "stream",
-      "channel_url": "https://d1n5rywd4x455r.cloudfront.net/svg/n8/javascript.json",
+      "channel_url": "https://gheysmlie.sbs/svg/n8/javascript.json",
       "channel_referer": "https://matchify.zip/8888.php",
       "channel_origin": "https://matchify.zip",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -10804,7 +10804,7 @@
       "channel_id": 1201,
       "channel_name": "[RU] MY Football 1",
       "channel_type": "stream",
-      "channel_url": "https://mfvideo246.top/hls/ms17.m3u8?md5=6oqGH-V1ltO1gyY7a2HWMQ&expires=1768612890",
+      "channel_url": "https://mfvideo246.top/hls/ms29.m3u8?md5=g9iPaO62QbrGVtz89_W5FA&expires=1768779736",
       "channel_referer": "https://myfootball.pw",
       "channel_origin": "https://myfootball.pw",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -10813,7 +10813,7 @@
       "channel_id": 1202,
       "channel_name": "[RU] MY Football 2",
       "channel_type": "stream",
-      "channel_url": "https://mfvideo246.top/hls/ms2.m3u8?md5=1QwpyCWVmv9jk3T1wh9tBQ&expires=1768612899",
+      "channel_url": "https://mfvideo246.top/hls/ms17.m3u8?md5=1q7u_ebfIdURm5qZeM6XbQ&expires=1768779751",
       "channel_referer": "https://myfootball.pw",
       "channel_origin": "https://myfootball.pw",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -10822,7 +10822,7 @@
       "channel_id": 1203,
       "channel_name": "[RU] MY Football 3",
       "channel_type": "stream",
-      "channel_url": "https://mfvideo246.top/hls/ms16.m3u8?md5=8xHelhuGxhjf1ut_0f0Kew&expires=1768612933",
+      "channel_url": "https://mfvideo246.top/hls/ms30.m3u8?md5=8qWcyjBcIvBhMjrEw9iTQw&expires=1768779698",
       "channel_referer": "https://myfootball.pw",
       "channel_origin": "https://myfootball.pw",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -10831,7 +10831,7 @@
       "channel_id": 1204,
       "channel_name": "[RU] MY Football 4",
       "channel_type": "stream",
-      "channel_url": "https://mfvideo246.top/hls/ms35.m3u8?md5=JytCWbH-VSPO4zMhhTKpAg&expires=1768612924",
+      "channel_url": "https://mfvideo246.top/hls/ms46.m3u8?md5=RJm5C7_rdVYUDJH6xQAlig&expires=1768779756",
       "channel_referer": "https://myfootball.pw",
       "channel_origin": "https://myfootball.pw",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -10840,7 +10840,7 @@
       "channel_id": 1205,
       "channel_name": "[RU] MY Football 5",
       "channel_type": "stream",
-      "channel_url": "https://mfvideo246.top/hls/ms18.m3u8?md5=YWp2CI7EGS7lKQC21E9g5g&expires=1768612941",
+      "channel_url": "https://mfvideo246.top/hls/ms16.m3u8?md5=CgIbjgtWUP6KS5BcoANgGA&expires=1768779706",
       "channel_referer": "https://myfootball.pw",
       "channel_origin": "https://myfootball.pw",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
