@@ -58,10 +58,10 @@
       "channel_id": 7,
       "channel_name": "[TR] beIN Sports 1 (6)",
       "channel_type": "stream",
-      "channel_url": "https://dga1op10s1u3leo.23fdcb77502523.click/live/selcukobs1/ios/playlist.m3u8",
-      "channel_referer": "https://main.uxsyplayerf892fd560a.click",
-      "channel_origin": "https://main.uxsyplayerf892fd560a.click",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36"
+      "channel_url": "https://tavuksansuru.lol/static/bs11.m3u8?&ad=random?token=2nByeOvIXtbN1_UcSUKKrQ&tms=1756725006",
+      "channel_referer": "https://x.com",
+      "channel_origin": "https://x.com",
+      "user_agent": "googleusercontent"
     },
     {
       "channel_id": 8,
@@ -103,7 +103,7 @@
       "channel_id": 12,
       "channel_name": "[TR] beIN Sports 1 (11)",
       "channel_type": "stream",
-      "channel_url": "https://nextrackerpro.lol/static/bs1.m3u8?&ad=random?token=pJ2bAPGceX4d3c_SSDBlsw&tms=1766414780",
+      "channel_url": "https://yastikkavgasi.lol/static/bs1.m3u8?&ad=random?token=pJ2bAPGceX4d3c_SSDBlsw&tms=1766414780",
       "channel_referer": "https://x.com",
       "channel_origin": "https://x.com",
       "user_agent": "googleusercontent"
@@ -1255,7 +1255,7 @@
       "channel_id": 140,
       "channel_name": "[TR] Halk tv",
       "channel_type": "stream",
-      "channel_url": "https://halktv.blutv.com/blutv_halktv_live/live.m3u8",
+      "channel_url": "https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3&ppid=fce08376c1194e8e28b2b37c956a9f6e",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
