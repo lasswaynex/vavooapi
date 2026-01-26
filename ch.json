@@ -94,7 +94,7 @@
       "channel_id": 11,
       "channel_name": "[TR] beIN Sports 1 (10)",
       "channel_type": "stream",
-      "channel_url": "https://dccom.cfd/bein_sports_1_hd/main.m3u8",
+      "channel_url": "https://fvcom.cfd/bein_sports_1_hd/main.m3u8",
       "channel_referer": "https://digitaloceancdn.site",
       "channel_origin": "https://digitaloceancdn.site",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -112,9 +112,9 @@
       "channel_id": 13,
       "channel_name": "[TR] beIN Sports 1 (12)",
       "channel_type": "stream",
-      "channel_url": "https://cdn.bsg1731043846.top/cdn/6gL7S8QkD--GVE6ouDNBDg/1769380844/100001.js",
-      "channel_referer": "https://www.papazsports906.pro",
-      "channel_origin": "https://www.papazsports906.pro",
+      "channel_url": "https://cdn.bsg1731043846.top/cdn/OS_7KOBV8bCFQV94m-mzjw/1769468684/100001.js",
+      "channel_referer": "https://www.papazsports907.pro/",
+      "channel_origin": "https://www.papazsports907.pro",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -6239,27 +6239,27 @@
     },
     {
       "channel_id": 694,
-      "channel_name": "[AR] Dubai Racing 1",
+      "channel_name": "[AR] Al Arabiya‎",
       "channel_type": "stream",
-      "channel_url": "https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b2500000.m3u8",
+      "channel_url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
       "channel_referer": "https://locahost",
       "channel_origin": "https://locahost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
       "channel_id": 695,
-      "channel_name": "[AR] Dubai Racing 2",
+      "channel_name": "[AR] Sharjah Sport",
       "channel_type": "stream",
-      "channel_url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8",
+      "channel_url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
       "channel_referer": "https://locahost",
       "channel_origin": "https://locahost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
       "channel_id": 696,
-      "channel_name": "[AR] Dubai Racing 3",
+      "channel_name": "[AR] Sharjah 2",
       "channel_type": "stream",
-      "channel_url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8",
+      "channel_url": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -6271,6 +6271,33 @@
       "channel_url": "http://62.201.210.86:6969/bein1/index.m3u8",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 276,
+      "channel_name": "[AR] OMAN SPORT+",
+      "channel_type": "stream",
+      "channel_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+      "channel_referer": "https://locahost",
+      "channel_origin": "https://locahost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 276,
+      "channel_name": "[AR] Bahrain Sport 1",
+      "channel_type": "stream",
+      "channel_url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w564182043_b1307000.m3u8",
+      "channel_referer": "https://locahost",
+      "channel_origin": "https://locahost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 276,
+      "channel_name": "[AR] Bahrain Sport 2",
+      "channel_type": "stream",
+      "channel_url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist_w1601271348_b2487000.m3u8",
+      "channel_referer": "https://locahost",
+      "channel_origin": "https://locahost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
@@ -9122,6 +9149,15 @@
       "channel_name": "[ES] Zylo Todo Novelas",
       "channel_type": "stream",
       "channel_url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
+      "channel_referer": "https://localhost",
+      "channel_origin": "https://localhost",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+	{
+      "channel_id": 1015,
+      "channel_name": "[IT] Lira TV",
+      "channel_type": "stream",
+      "channel_url": "https://streamcdne3-a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
