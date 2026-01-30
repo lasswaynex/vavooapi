@@ -3395,11 +3395,11 @@
     },
     {
       "channel_id": 378,
-      "channel_name": "[DEPORTES] ESPN PREMIUM LAT",
+      "channel_name": "[DEPORTES] ESPN PREMIUM LAT streamtp10",
       "channel_type": "embed",
-      "channel_url": "https://embed.ksdjugfsddeports.com/embed2/espnpremium.html",
-      "channel_referer": "https://embed.ksdjugfsddeports.com/",
-      "channel_origin": "https://embed.ksdjugfsddeports.com/",
+      "channel_url": "https://streamtp10.com/global1.php?stream=espn",
+      "channel_referer": "https://streamtp10.com/",
+      "channel_origin": "https://streamtp10.com/",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
     },
     {
