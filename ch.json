@@ -472,7 +472,7 @@
       "channel_id": 53,
       "channel_name": "[TR] Eurosport 2 - 1",
       "channel_type": "stream",
-      "channel_url": "https://dsmartgo-live.ercdn.net/eurosport1/eurosport2.m3u8",
+      "channel_url": "https://dsmartgo-live.ercdn.net/eurosport2/eurosport2.m3u8",
       "channel_referer": "https://localhost",
       "channel_origin": "https://localhost",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
