@@ -29,11 +29,11 @@
     },
     {
       "channel_id": 4,
-      "channel_name": "[TR] beIN Sports 1 (3)",
-      "channel_type": "stream",
-      "channel_url": "http://eb4b8dcf.kablakaka.ru/iptv/HBHPK9FK755LG3/6781/index.m3u8",
-      "channel_referer": "http://livetv24.org",
-      "channel_origin": "http://livetv24.org",
+      "channel_name": "[TR] beIN SPORTS 1 (3)",
+      "channel_type": "embed",
+      "channel_url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free",
+      "channel_referer": "https://cdn-live.tv",
+      "channel_origin": "https://cdn-live.tv",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
     },
     {
